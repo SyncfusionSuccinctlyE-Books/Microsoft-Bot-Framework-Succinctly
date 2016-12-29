@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

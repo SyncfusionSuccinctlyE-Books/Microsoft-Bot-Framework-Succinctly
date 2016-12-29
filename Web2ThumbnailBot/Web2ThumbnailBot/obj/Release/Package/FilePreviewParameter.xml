@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Web2ThumbnailBot" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Fast\\Documents\\Visual_Studio_2015\\Microsoft_Bot_Framework_Succinctly\\CodeSamples\\Web2ThumbnailBot\\Web2ThumbnailBot\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Fast\\Documents\\Visual_Studio_2015\\Microsoft_Bot_Framework_Succinctly\\CodeSamples\\Web2ThumbnailBot\\Web2ThumbnailBot\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

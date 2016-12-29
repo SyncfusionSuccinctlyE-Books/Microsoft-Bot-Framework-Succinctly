@@ -1,0 +1,38 @@
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Bot Application1.dll.config
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Bot Application1.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Bot Application1.pdb
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Newtonsoft.Json.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\RestSharp.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\System.Web.Http.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\Newtonsoft.Json.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\RestSharp.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\System.Web.Http.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\obj\Debug\Bot Application1.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\obj\Debug\Bot Application1.pdb
+C:\Users\Fast\Documents\Visual_Studio_2015\Microsoft_Bot_Framework_Succinctly\CodeSamples\Web2ThumbnailBot\Web2ThumbnailBot\obj\Debug\Web2ThumbnailBot.csprojResolveAssemblyReference.cache

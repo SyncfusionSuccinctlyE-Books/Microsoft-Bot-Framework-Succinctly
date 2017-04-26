@@ -4,10 +4,10 @@ using System.Collections.Generic;
 
 namespace AirfareAlertBot.Controllers
 {
-    // This helper class is used in order to validate trip dates
+    // This helper class is used to validate trip dates
     public class ValidateDateHelper
     {
-        // Parses and converts a string date to a Datetime date
+        // Parses and converts a string date to a DateTime date
         public static DateTime ToDateTime(string date)
         {
             return DateTime.Parse(date);

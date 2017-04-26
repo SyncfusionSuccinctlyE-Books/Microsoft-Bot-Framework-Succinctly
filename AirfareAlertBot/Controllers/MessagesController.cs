@@ -59,7 +59,7 @@ namespace AirfareAlertBot
                 {
                     bool changed = false;
 
-                    // The bot checks in Azure Table Storage...
+                    // The bot checks in Azure Table storage...
                     using (TableStorage ts = new TableStorage())
                     {
                         // ...If a stored flight request has had any price changes
@@ -132,14 +132,14 @@ namespace AirfareAlertBot
             Data.fd.FlightDetails.UserId = activity.From.Id;
         }
 
-        // Init and invokes the ProcessFlight constructor
+        // Inits and invokes the ProcessFlight constructor
         private void InitFlightData()
         {
             if (Data.fd == null)
                 Data.fd = new ProcessFlight();
         }
 
-        // Gets the user and channel id's of the conversation
+        // Gets the user and channel IDs of the conversation
         private void GetUserAndChannelId(Activity activity, ConnectorClient connector)
         {
             Data.channelId = activity.ChannelId;

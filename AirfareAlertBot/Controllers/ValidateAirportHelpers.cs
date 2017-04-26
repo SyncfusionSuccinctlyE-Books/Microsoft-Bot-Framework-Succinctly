@@ -54,7 +54,7 @@ namespace AirfareAlertBot.Controllers
             return result;
         }
 
-        // Show the user the various airport option available
+        // Show the user the various airport options available
         public static ValidateResult GetOriginOptions(string[] values, ValidateResult result)
         {
             result.Feedback = GatherErrors.cStrGatherMOrigin + StrConsts._NewLine +

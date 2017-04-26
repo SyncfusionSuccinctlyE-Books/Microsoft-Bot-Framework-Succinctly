@@ -31,7 +31,7 @@ namespace AirfareAlertBot.Controllers
             return codes;
         }
 
-        // Set the Bot's state as the internal state
+        // Set the bot's state as the internal state
         public static void AssignStateToFlightData(ValidateResult result, TravelDetails state)
         {
             if (result.IsValid)

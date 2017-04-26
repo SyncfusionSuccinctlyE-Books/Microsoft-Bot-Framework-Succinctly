@@ -1,0 +1,1 @@
+Sample solutions for the Microsoft Bot Framework Succinctly e-book.

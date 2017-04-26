@@ -14,7 +14,7 @@ namespace AirfareAlertBot.Controllers
 
             if (value.ToLower().Contains(GatherQuestions.cStrUnFollow.ToLower()))
             {
-                // Use Azure Table Storage 
+                // Use Azure Table storage 
                 using (TableStorage ts = new TableStorage())
                 {
                     string guid = value.ToLower().Replace(

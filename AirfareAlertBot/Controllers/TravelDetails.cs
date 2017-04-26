@@ -103,7 +103,7 @@ namespace AirfareAlertBot
 
                     .Field(nameof(InboundDate),
                     // Validates the inbound travel date submitted
-                    // (or if it a one way trip)
+                    // (or if it is a one way trip)
                     validate: async (state, value) =>
                     {
                         return await Task.Run(() =>
